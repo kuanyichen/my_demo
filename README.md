@@ -10,6 +10,6 @@ Let's add a list of things I like:
 
 Let's add more stuff!
 
-+ Things I don't like:
+Things I don't like:
 
 + mosquitoes
